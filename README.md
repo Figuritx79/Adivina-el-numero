@@ -1,6 +1,6 @@
-## Getting Started
+## Advina el numero
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este programa te solicita el numero y si es igual a un numero random entonces ganas. Tienes tres intentos para adivinar el numero random.
 
 ## Folder Structure
 
